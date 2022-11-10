@@ -1,0 +1,97 @@
+body {
+    margin: 0%;
+}
+
+#menu {
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+#search {
+    margin-top: -67px;
+    margin-left: 42%;
+}
+
+#search #search-in {
+    padding: 4px 160px 4px 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-left: -27px;
+    margin-top: 33px;
+}
+
+#search div#bars {
+    margin-top: -54px;
+    margin-left: -55%;
+}
+
+#bars .but {
+    margin-right: 40px;
+    background-color: rgba(255, 255, 255, 0.918);
+    padding: 15px 13px 15px 13px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    transition-duration: 0.4s;
+}
+
+.but:hover {
+    color: orange;
+    box-shadow: 0 12px 16px 0 rgba(177, 146, 146, 0), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.link {
+    text-decoration: none;
+    color: #004a8c;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#banner {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(59, 117, 226);
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#pastas {
+    background-color: #004a8c;
+    padding: 1px;
+    margin-top: 25px;
+}
+
+#pastas-content {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    margin-left: 10%;
+}
+
+#mid-pag {
+    background-color: #e4e8f0;
+    color: transparent;
+    padding-top: 100px;
+    padding-bottom: 170px;
+}
+
+.post {
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 12%;
+    padding-left: 550px;
+    padding-right: 550px;
+    padding-top: 270px;
+    padding-bottom: 270px;
+    width: 120px;
+    background-color: rgb(255, 153, 0);
+    border-radius: 10px;
+}
+
+#foot{
+    background-color: #e4e8f0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
