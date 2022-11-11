@@ -1,16 +1,19 @@
 body {
     margin: 0%;
 }
+/*alteração do código body*/
 
 #menu {
     margin-left: 5%;
     margin-top: 1%;
 }
+/*logo, barra de pesquisa e barras de escolha(fotos, videos, chat e carreiras*/
 
 #search {
     margin-top: -67px;
     margin-left: 42%;
 }
+/*div responsável pelo form da barra de pesquisa*/
 
 #search #search-in {
     padding: 4px 160px 4px 10px;
@@ -19,11 +22,13 @@ body {
     margin-left: -27px;
     margin-top: 33px;
 }
+/*barra de pesquisa*/
 
 #search div#bars {
     margin-top: -54px;
     margin-left: -55%;
 }
+/*div responsável pelas barras de escolha(fotos, videos, chat e carreiras)*/
 
 #bars .but {
     margin-right: 40px;
@@ -35,18 +40,21 @@ body {
     font-size: 15px;
     transition-duration: 0.4s;
 }
+/*barras de escolha(fotos, videos, chat e carreiras)*/
 
 .but:hover {
     color: orange;
     box-shadow: 0 12px 16px 0 rgba(177, 146, 146, 0), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 
 }
+/*efeito de seleção das barras de escolha*/
 
 .link {
     text-decoration: none;
     color: #004a8c;
     font-family: 'Montserrat', sans-serif;
 }
+/*links das opções das barras de escolha*/
 
 #banner {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -55,12 +63,14 @@ body {
     padding-top: 80px;
     padding-bottom: 80px;
 }
+/*conteúdo abaixo das pastas*/
 
 #pastas {
     background-color: #004a8c;
     padding: 1px;
     margin-top: 25px;
 }
+/*barra de "pastas" que mostra onde se encontra no site. Ex: home/fotos*/
 
 #pastas-content {
     color: white;
@@ -68,6 +78,7 @@ body {
     font-size: 13px;
     margin-left: 10%;
 }
+/*conteúdo da barra de "pastas"*/
 
 #mid-pag {
     background-color: #e4e8f0;
@@ -75,6 +86,7 @@ body {
     padding-top: 100px;
     padding-bottom: 170px;
 }
+/*div responsável pelos posts*/
 
 .post {
     margin: 0;
@@ -89,9 +101,11 @@ body {
     background-color: rgb(255, 153, 0);
     border-radius: 10px;
 }
+/*posts*/
 
 #foot{
     background-color: #e4e8f0;
     padding-top: 70px;
     padding-bottom: 70px;
 }
+/*rodapé da página*/
