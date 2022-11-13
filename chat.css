@@ -1,0 +1,58 @@
+.icon-bar {
+    width: 90px;
+    background-color: #004a90;
+    margin-top: -35%;
+    height: 460px;
+   
+
+
+}
+
+.icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 8px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+.icon-bar a:hover {
+    background-color: orange
+}
+
+.active {
+    background-color: orange;
+}
+
+.h3 {
+    text-align: center;
+    border: 5px solid #004a90;
+    width: 250px;
+    height: 450px;
+    margin-left: 85px;
+    background-color: rgb(241, 236, 225);
+    font-family: trebuchet ms;
+    font-size: 19px;
+}
+
+hr{
+    border: 1px solid  orange;
+}
+
+p{
+    text-align: left;
+    font-family: 'Trebuchet MS';
+}
+
+img{
+   
+    border-radius: 500%;
+    width: 85px; height: 85px;
+}
+    
+
+
+
+
