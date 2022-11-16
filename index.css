@@ -64,6 +64,32 @@ body {
 
 /*links das opções das barras de escolha*/
 
+#login input[type=button] {
+    float: right;
+    margin-top: -47px;
+    margin-left: 250px;
+    margin-right: 40px;
+    font-family: Montserrat;
+    padding: 12px;
+    border: none;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+
+}
+
+/*costumização do botão de login*/
+
+#folder-icon {
+    float: right;
+    font-size: 43px;
+    margin-right: 363px;
+    margin-top: -51px;
+    color: #004a8c;
+    cursor: pointer;
+}
+
 #banner {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(59, 117, 226);
