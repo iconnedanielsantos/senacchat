@@ -1,0 +1,15 @@
+header{
+    display: flex;
+}
+
+.logo{
+    margin-left: 11.4%;
+    margin-top: 2.2%;
+}
+
+.list-header{
+    margin-top: 3.0%;
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+}
